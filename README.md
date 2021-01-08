@@ -31,6 +31,7 @@ Objetivos específicos
 
 ![Diagrama](https://user-images.githubusercontent.com/76136485/103986757-4b2b4c00-5159-11eb-9494-5462ee5164b7.png) 
 
+
 ### Tabla
 ![TABLA LAB2](https://user-images.githubusercontent.com/76136049/103987235-2daab200-515a-11eb-872c-03c46563fa5b.PNG)
 
@@ -47,4 +48,7 @@ Objetivos específicos
 - Una ves realizados los cálculos y la simulación se puede asegurar que el método esta correctamente realizado y que tiene correcto funcionamiento.
 - Se puede emplear varias leyes como la ley de kirchhoff y convinarlas con diferentes métodos como en este caso con el método de corriente 
 de mallas para poder resolver problemas de circuitos eléctricos con mayor fácilidad y eficiencia.
+
+###  Bibliografía
+Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
 
