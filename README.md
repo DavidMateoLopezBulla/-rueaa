@@ -10,6 +10,7 @@ Laboratorio2_FDC_4877
 ###  Objetivos	
 
 Objetivos generales   		
+
  -Comprender el método de análisis de mallas, estableciendo relación de cuando se deben usar las Leyes de Kirchoff y ley de Ohm , así como conceptos del análisis de circuitos. 
 
 Objetivos específicos
