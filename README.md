@@ -2,8 +2,6 @@
 
 Laboratorio2_FDC_4877	
 
-**Informe Laboratorio 2**
-
 - David López	
 - Mariú Correa	
 
@@ -20,4 +18,5 @@ Objetivos específicos
 ![2](https://user-images.githubusercontent.com/76136049/103984707-a22f2200-5155-11eb-946b-37a4b47c50a3.png)
 
 
-### 
+### Lista de componentes
+
