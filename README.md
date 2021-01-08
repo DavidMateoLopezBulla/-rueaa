@@ -24,15 +24,18 @@ Objetivos específicos
 ![1](https://user-images.githubusercontent.com/76136049/103984704-a1968b80-5155-11eb-9658-345cb1c89271.png)
 ![2](https://user-images.githubusercontent.com/76136049/103984707-a22f2200-5155-11eb-946b-37a4b47c50a3.png
 
-### Tabla
 
 
 
 ### Diagrama:
 
-![Diagrama](https://user-images.githubusercontent.com/76136485/103986757-4b2b4c00-5159-11eb-9494-5462ee5164b7.png)
+![Diagrama](https://user-images.githubusercontent.com/76136485/103986757-4b2b4c00-5159-11eb-9494-5462ee5164b7.png) 
+
+### Tabla
+![TABLA LAB2](https://user-images.githubusercontent.com/76136049/103987235-2daab200-515a-11eb-872c-03c46563fa5b.PNG)
+
 
 ### Lista de componentes
-![MATERIALES LB 2](https://user-images.githubusercontent.com/76136049/103986147-3a2e0b00-5158-11eb-882e-316e8f20151d.PNG 
+![MATERIALES LB 2](https://user-images.githubusercontent.com/76136049/103986147-3a2e0b00-5158-11eb-882e-316e8f20151d.PNG)
 
 
