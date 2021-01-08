@@ -40,5 +40,5 @@ Objetivos específicos
 
 ### Explicación
 
-[Link Video](https://www.youtube.com/watch?v=QH57VH6Ijas"Link Video")
+[Link Video](https://www.youtube.com/watch?v=QH57VH6Ijas "Link Video")
 
