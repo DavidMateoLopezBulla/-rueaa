@@ -22,7 +22,7 @@ Objetivos específicos
 
 ### Marco teórico
 ![1](https://user-images.githubusercontent.com/76136049/103984704-a1968b80-5155-11eb-9658-345cb1c89271.png)
-![2](https://user-images.githubusercontent.com/76136049/103984707-a22f2200-5155-11eb-946b-37a4b47c50a3.png
+![2](https://user-images.githubusercontent.com/76136049/103984707-a22f2200-5155-11eb-946b-37a4b47c50a3.png)
 
 
 
@@ -40,5 +40,11 @@ Objetivos específicos
 
 ### Explicación
 
-[Link Video](https://www.youtube.com/watch?v=QH57VH6Ijas "Link Video")
+[Link Video](https://www.youtube.com/watch?v=QH57VH6Ijas "Link Video
+
+### Conclusiones
+- El método de corrientes de mallas utiliza prerviamente las leyes de kirchhoff para su correcta resolución.
+- Una ves realizados los cálculos y la simulación se puede asegurar que el método esta correctamente realizado y que tiene correcto funcionamiento.
+- Se puede emplear varias leyes como la ley de kirchhoff y convinarlas con diferentes métodos como en este caso con el método de corriente 
+de mallas para poder resolver problemas de circuitos eléctricos con mayor fácilidad y eficiencia.
 
