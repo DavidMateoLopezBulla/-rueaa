@@ -1,4 +1,4 @@
-#### Laboratorio N°2
+### LABORATORIO N°2
 
 Laboratorio2_FDC_4877	
 
