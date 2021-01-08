@@ -38,4 +38,8 @@ Objetivos específicos
 ### Lista de componentes
 ![MATERIALES LB 2](https://user-images.githubusercontent.com/76136049/103986147-3a2e0b00-5158-11eb-882e-316e8f20151d.PNG)
 
+### Explicación
+
+•	[Link Video](https://www.youtube.com/watch?v=QH57VH6Ijas"Link Video")
+
 
